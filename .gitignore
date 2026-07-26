@@ -1,0 +1,17 @@
+﻿# Runtime logs
+logs/
+*.log
+
+# Python cache
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE
+.idea/
+.vscode/
