@@ -1,4 +1,4 @@
-﻿# Runtime logs
+# Runtime logs
 logs/
 *.log
 
@@ -7,6 +7,13 @@ __pycache__/
 *.pyc
 .venv/
 venv/
+
+# Secrets & environment
+.env
+.env.*
+*.local
+accounts.json
+accounts_state.json
 
 # OS
 .DS_Store
